@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVVMDatabinding.iml" filepath="$PROJECT_DIR$/MVVMDatabinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm_listview/mvvm_listview.iml" filepath="$PROJECT_DIR$/mvvm_listview/mvvm_listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm_login/mvvm_login.iml" filepath="$PROJECT_DIR$/mvvm_login/mvvm_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm_recyclerview/mvvm_recyclerview.iml" filepath="$PROJECT_DIR$/mvvm_recyclerview/mvvm_recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm_rx_retrofit_users/mvvm_rx_retrofit_users.iml" filepath="$PROJECT_DIR$/mvvm_rx_retrofit_users/mvvm_rx_retrofit_users.iml" />
+      <module fileurl="file://C:\ASProject\MVVMDatabinding\mvvm_login\myfirstmvvm_login.iml" filepath="C:\ASProject\MVVMDatabinding\mvvm_login\myfirstmvvm_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxexample_android/rxexample_android.iml" filepath="$PROJECT_DIR$/rxexample_android/rxexample_android.iml" />
+    </modules>
+  </component>
+</project>

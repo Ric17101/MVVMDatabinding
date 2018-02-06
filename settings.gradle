@@ -1,0 +1,7 @@
+include ':app',
+        ':mvvm_login',
+        ':mvvm_listview',
+        ':mvvm_recyclerview',
+        ':rxexample_android',
+        ':mvvm_rx_retrofit_users'
+

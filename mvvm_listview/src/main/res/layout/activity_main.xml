@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+<!--
+    <data >
+        <variable
+            name="listview"
+            type="com.freelance.ric17.mvvm_listview.adapter.NewsAdapter" />
+    </data>-->
+    <LinearLayout android:background="@color/colorAccent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.freelance.ric17.mvvm_listview.MainActivity">
+
+        <ListView
+            android:id="@+id/listview"
+            android:layout_width="match_parent" android:dividerHeight="10dp"
+            android:layout_height="wrap_content">
+
+
+        </ListView>
+
+    </LinearLayout>
+</layout>
+
