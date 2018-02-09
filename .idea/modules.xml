@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MVVMDatabinding.iml" filepath="$PROJECT_DIR$/MVVMDatabinding.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm_dagger/mvvm_dagger.iml" filepath="$PROJECT_DIR$/mvvm_dagger/mvvm_dagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvvm_listview/mvvm_listview.iml" filepath="$PROJECT_DIR$/mvvm_listview/mvvm_listview.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvvm_login/mvvm_login.iml" filepath="$PROJECT_DIR$/mvvm_login/mvvm_login.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvvm_recyclerview/mvvm_recyclerview.iml" filepath="$PROJECT_DIR$/mvvm_recyclerview/mvvm_recyclerview.iml" />

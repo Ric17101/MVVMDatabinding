@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/mvvm_dagger" />
             <option value="$PROJECT_DIR$/mvvm_listview" />
             <option value="$PROJECT_DIR$/mvvm_login" />
             <option value="$PROJECT_DIR$/mvvm_recyclerview" />

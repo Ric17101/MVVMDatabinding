@@ -3,5 +3,6 @@ include ':app',
         ':mvvm_listview',
         ':mvvm_recyclerview',
         ':rxexample_android',
-        ':mvvm_rx_retrofit_users'
+        ':mvvm_rx_retrofit_users',
+        ':mvvm_dagger'
 
